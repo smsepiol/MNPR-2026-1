@@ -1,8 +1,6 @@
-# MNPR 2026-1
+# Curso de Modelos No parametricos y de Regresion 
 
-## Curso de Modelos No parametricos y de Regresion impartido en la Facultad de Ciencias semestre 2026-1
-
-Este repositorio contiene el material de las ayudantías del curso de Modelos No parametricos y de Regresion (MNPR) impartido en la Facultad de Ciencias de la UNAM durante el semestre 2026-1.
+Este repositorio contiene el material de las ayudantías del curso de Modelos No parametricos y de Regresion impartido en la Facultad de Ciencias de la UNAM durante el semestre 2026-1.
 
 ### Orden del curso
 
