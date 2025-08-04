@@ -69,10 +69,6 @@ Este repositorio contiene el material del curso de Modelos No paramétricos y de
         - Prueba de Wilcoxon
         - Prueba de Kruskal-Wallis
         
-### Evaluación
-- Tareas en equipos de máximo 4 integrantes (**20%**).
-- Tareas de Implementación de código (**20%**).
-- Exámenes parciales y proyectos (**60%**).
 
 
 
