@@ -1,11 +1,23 @@
-# Curso de Modelos No parametricos y de Regresion 
+# Curso de Modelos No paramétricos y de Regresión 
 
-Este repositorio contiene el material de las ayudantías del curso de Modelos No parametricos y de Regresion impartido en la Facultad de Ciencias de la UNAM durante el semestre 2026-1.
+Este repositorio contiene el material del curso de Modelos No paramétricos y de Regresión impartido en la Facultad de Ciencias de la UNAM durante el semestre 2026-1.
+
+## Información del curso
+
+- **Profesor**: Omar Rodríguez Torres 
+- **Ayudante**: Rodrigo Basaldud Ortega
+
+
+### Evaluación
+- Tareas en equipos de máximo 4 integrantes (**20%**).
+- Tareas de Implementación de código (**20%**).
+- Exámenes parciales y proyectos (**60%**).
+
 
 ### Orden del curso
 
-- Repaso de inferencia estadística 
-    - Metodos de estimación
+- Repaso de Inferencia Estadística 
+    - Métodos de estimación
     - Intervalos de confianza
     - Pruebas de hipótesis
 
